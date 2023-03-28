@@ -214,6 +214,9 @@ html{
     color: #fff;
     padding: 50px 20px;
 }
+.skills img {
+    width:90px;
+}
 .skills .contenido-seccion{
     max-width: 1100px;
     margin: auto;

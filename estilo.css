@@ -228,7 +228,7 @@ html{
     padding: 20px 0;
 
 }
-.skills h3 {
+.skills h4 {
     background-color: var(--dark2);
     text-align: center;
     border-radius: 5px;
@@ -240,8 +240,8 @@ html{
     transform: translate(0px,-100px);
     transition: transform 0.4s ease, opacity 0.4s ease;
 }
-.knowledge>div:hover h3,
-.tools>div:hover h3 {
+.knowledge>div:hover h4,
+.tools>div:hover h4 {
     opacity: 1;
     transform: translate(0px,-150px);
 }

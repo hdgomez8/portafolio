@@ -297,7 +297,9 @@ html{
 /*skills*/
 
 section.skills {
-    background-color: var(--dark1);
+    background-color: #252A2E;
+    color: #fff;
+    padding: 50px 20px;
 }
 
 .skill {

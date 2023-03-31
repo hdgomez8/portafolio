@@ -245,6 +245,12 @@ html{
     opacity: 1;
     transform: translate(0px,-150px);
 }
+.knowledge {
+    display: grid;
+    grid-template-columns:repeat(auto-fit,minmax(110px,auto));
+    justify-content: center;
+    gap:25px;
+ }
 .skills .fila{
     display: flex;
 }

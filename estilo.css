@@ -646,7 +646,7 @@ section.skills {
     transition: 1s;
 }
 
-.portafolio .galeria .proyecto .overlay h3 {
+.portafolio .galeria .proyecto .overlay a {
     text-decoration: none;
 }
 
